@@ -1,10 +1,7 @@
 Hai hello world....
 this is second line
 third line
-Git 
 
-reactjs
-mobx 
 django
 Js
 html
