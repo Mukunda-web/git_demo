@@ -1,7 +1,8 @@
-Hai hello world....
-this is second line
+d line
 third line
 
+
+mobx 
 django
 Js
 html
@@ -12,3 +13,4 @@ new line added
  we are learning git
  learning makes me alive.
  learning is key to evolution.
+newly added line in main branch
