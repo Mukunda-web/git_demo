@@ -9,3 +9,9 @@ django
 Js
 html
 this is a line in master
+
+
+new line added
+ we are learning git
+ learning makes me alive.
+ learning is key to evolution.
